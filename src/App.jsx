@@ -29,7 +29,7 @@ function App() {
   }
   return (
     <div className='App'>
-
+       <h1>Push code to github</h1>
       <div className='container'>
           <h2>BMI Calculator</h2>
           <form onSubmit={calcBMI}>
